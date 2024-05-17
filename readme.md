@@ -44,3 +44,5 @@ Feel free to contact me
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
