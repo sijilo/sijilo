@@ -1,4 +1,4 @@
-![](https://github.com/sijilo/assets/images/header.png)
+![Sijilo](./assets/images/header.png)
 
 ## About Me
 
