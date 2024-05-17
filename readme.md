@@ -1,4 +1,4 @@
-# Hi there 👋
+![](https://github.com/sijilo/assets/images/header.png)
 
 ## About Me
 
