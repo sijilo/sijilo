@@ -45,4 +45,4 @@ Feel free to contact me
 
 <!--END_SECTION:waka-->
 
-<!-- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg) -->
+![sijilo-graph](./profile-3d-contrib/profile-gitblock.svg)
