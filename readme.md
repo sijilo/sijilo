@@ -1,28 +1,3 @@
-Hey folks! 👋
-
-My name is sijil.
-
-
-
-
-
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
-
-
-
-![](https://komarev.com/ghpvc/?username=sijilo&style=flat-square)
-
-[![sijil's github stats](https://github-readme-stats.vercel.app/api?username=sijilo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/sijilo)
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-
 # Hi there 👋
 
 ## About Me
@@ -58,6 +33,8 @@ Feel free to contact me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sijilo/)
 
 ## 📈 GitHub Stats
+
+![](https://komarev.com/ghpvc/?username=sijilo&style=flat-square)
 
 ![Sijil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sijilo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
 
