@@ -2,7 +2,7 @@
 
 ## About Me  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
-Hello My name is Sijil, and I'm passionate about software development. I love working with Python and Go, and I'm always eager to explore new technologies and tools. Whether it's building scalable applications with Amazon DynamoDB or ensuring data integrity with PostgreSQL, I'm here to create impactful solutions.
+Hello My name is Sijil, and I'm passionate about software development. I love working with Python and Go, and I'm always eager to explore new technologies and tools. Whether it's building scalable applications with Amazon DynamoDB or ensuring data integrity with PostgreSQL, I'm here to create impactful solutions. I'm open to collaborating on interesting projects and contributing to open-source initiatives. Feel free to reach out!
 
 ## Technologies & Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
@@ -22,11 +22,8 @@ I frequently work with:
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## 🤝 Contributions
 
-I'm open to collaborating on interesting projects and contributing to open-source initiatives. Feel free to reach out!
-
-## 📫 Contact Me
+## Contact Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 Feel free to contact me
 
