@@ -1,6 +1,6 @@
 ![Sijilo](./assets/images/header.png)
 
-## About Me
+## About Me  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 Hello My name is Sijil, and I'm passionate about software development. I love working with Python and Go, and I'm always eager to explore new technologies and tools. Whether it's building scalable applications with Amazon DynamoDB or ensuring data integrity with PostgreSQL, I'm here to create impactful solutions.
 
