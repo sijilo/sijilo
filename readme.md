@@ -4,7 +4,7 @@
 
 Hello My name is Sijil, and I'm passionate about software development. I love working with Python and Go, and I'm always eager to explore new technologies and tools. Whether it's building scalable applications with Amazon DynamoDB or ensuring data integrity with PostgreSQL, I'm here to create impactful solutions.
 
-## 🛠️ Technologies & Languages
+## Technologies & Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
