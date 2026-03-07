@@ -34,9 +34,6 @@ Feel free to contact me
 
 ![](https://komarev.com/ghpvc/?username=sijilo&style=flat-square)
 
-![Sijil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sijilo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sijilo&layout=compact&langs_count=6&title_color=fff&text_color=9f9f9f&bg_color=151515)
 
 <!--START_SECTION:waka-->
 
